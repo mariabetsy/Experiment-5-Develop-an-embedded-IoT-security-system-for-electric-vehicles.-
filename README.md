@@ -97,7 +97,9 @@ b.Children(1).CData = [0 1 0; 1 0 0]; % Green for access, Red for intrusion
 pause(3); % Wait 3 seconds before script ends
 ```
 ## OUTPUT
+
 <img width="514" height="715" alt="image" src="https://github.com/user-attachments/assets/45dcbc94-43a0-4d67-b24f-9e56803bb82c" />
+
 
 <img width="736" height="656" alt="image" src="https://github.com/user-attachments/assets/4421733c-9c0e-423d-86f4-228e52d52e51" />
  
